@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: micronautKotlinSoccer
+netty:
+  default:
+    allocator:
+      max-order: 3
